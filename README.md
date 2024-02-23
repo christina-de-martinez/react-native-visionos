@@ -14,11 +14,11 @@ React Native visionOS allows you to write visionOS with full support for platfor
 ![Screenshot](https://github.com/callstack/react-native-visionos/assets/52801365/0fcd5e5f-628c-49ef-84ab-d1d4675a011a)
 
 ## 🎉 Building your first spatial React Native app
-Follow the [Getting Started](https://callstack.github.io/react-native-visionos-docs/getting-started/create-first-app) guide. If you wish to get started quickly, you can utilize this command: 
+Follow the [Getting Started](https://callstack.github.io/react-native-visionos-docs/docs/getting-started/create-first-app) guide. If you wish to get started quickly, you can utilize this command:
 
 ```sh
 npx @callstack/react-native-visionos@latest init YourApp
-``` 
+```
 
 
 ## 📖 Documentation
@@ -29,7 +29,7 @@ The source for the React Native visionOS documentation and website is hosted on 
 
 ## Contributing
 
-Prerequisites: 
+Prerequisites:
 - Download the latest Xcode (at least 15.2)
 - Install the latest version of CMake (at least v3.28.0)
 
